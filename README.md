@@ -1,5 +1,7 @@
 # What I've Learned
 
+I'm surprised you are reading this.
+
 No 100% commitments. It all depends on time.
 
 95% chance: write brief articles on interesting things I read.
